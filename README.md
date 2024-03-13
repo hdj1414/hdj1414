@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **hdj1414/hdj1414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Welcome to My GitHub Profile!
+
+- 👋 Hello, I’m Hasaranga Jayathilake! 
+- 😊 You can call me "Hasi"
+- 👀 I’m interested in data science, NLP, and data visualization.
+- 🌱 I’m a Applied Data Science, MS graduate student at Indiana University-Indianapolis.
+- 💞️ I’m looking to collaborate with like-minded, driven individuals.
+- 📫 How to reach me: hdj1414@gmail.com OR [LinkedIn](https://www.linkedin.com/in/hasaranga-jayathilake/)
